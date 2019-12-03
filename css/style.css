@@ -1,0 +1,110 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+.containar{
+ width: 100%;
+  margin: 0px auto;
+   }
+
+
+
+
+.logo{
+  
+  width: 25%;
+  height: 130px;
+    float: left;
+}
+
+
+
+.menu{
+ width: 60%;
+  height: 130px;
+ 
+  background-color:#708090;
+  float: right;
+}
+nav ul {
+list-style: none;
+}
+
+nav ul li {
+display: inline-block;
+margin: 36px 66px;
+}
+
+nav ul li a {
+text-decoration: none; 
+color: white;
+font-size: 20px;}
+
+
+
+
+.money{
+  padding: 30px 0;
+  width: 100%;
+  float: left;
+}
+.money-one{
+  float: left;
+  width: 30%;
+  margin-right: 15%;
+  background: cyan;
+  padding:3%;
+  margin-left:6%;
+}
+.money-two{
+  float: left;
+  width: 30%;
+  background: cyan;
+  padding: 3%;
+}
+.money h2{
+  margin-left: 45px;
+  margin-bottom: 5px;
+}
+.money a{
+  background: #69BB39;
+  color: white;
+  padding: 7px 12px;
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  margin-top: 5px;
+}
+.money-list i{
+  background: #69BB39;
+  color: black;
+  font-size: 12px;
+  margin-right: 8px;
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+}
+
+
+
+
+.footer{
+   
+   width: 100%;
+   float: left;
+    background-color: #663399;
+    height: 120px;
+}
+
+
+
+
+h3{
+padding: 30px 150px;
+color: white;
+text-align: center;}
+
+
+
+
